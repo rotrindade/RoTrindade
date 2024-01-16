@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rtrindadelabs" target="blank"><img src="https://img.shields.io/twitter/follow/rtrindadelabs?logo=twitter&style=for-the-badge" alt="rtrindadelabs" /></a> </p>
 
-- 🌱 I’m currently learning **DCPT Certification...**
+- 🌱 I’m currently studying for **DCPT Certification...**
 
 - 👨🏻‍💻 All of my projects are available at [https://github.com/RTrindadeLabs](https://github.com/RTrindadeLabs)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/rodrigotrindade](https://linkedin.com/in/rodrigotrindade)
 
-- ⚡ Fun fact **I love Robots, Travel, Cinema/TV Series: Doctor Who, Star Wars...**
+- ⚡ Fun fact **I love Tech, Robots, Travel, Doctor Who & Star Wars.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
