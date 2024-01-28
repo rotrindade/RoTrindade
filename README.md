@@ -74,3 +74,7 @@
 <h2 align="left">Git:</h2>
 
 ###
+
+<img src="https://raw.githubusercontent.com/rotrindade/rotrindade/output/snake.svg" alt="Snake animation" />
+
+###
