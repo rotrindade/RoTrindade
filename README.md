@@ -14,7 +14,7 @@
 👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br><br>
 🎥 I'm YouTuber https://youtube.com/@GuiTrindade<br><br>
 💬 Ask me about Swift | SwiftUI | Apple | Tech | visionOS<br><br>
-📫 How to reach me mailto:rodrigotrindade@protonmail.com<br><br>
+📫 How to reach me rodrigotrindade@protonmail.com<br><br>
 📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br><br>
 ⚡ Fun fact: I love Tech, Apple, Robots, Travel, Doctor Who & Star Wars.</p>
 
