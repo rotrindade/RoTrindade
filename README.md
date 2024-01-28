@@ -1,30 +1,30 @@
 <h1 align="center">Hi 🖖🏻, I'm Rodrigo Trindade</h1>
-<h3 align="center">A passionate Cyber Security Analyst from Brazil</h3>
+<h3 align="center">A passionate iOS Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtrindadelabs&label=Profile%20views&color=0e75b6&style=flat" alt="rtrindadelabs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rtrindadelabs" target="blank"><img src="https://img.shields.io/twitter/follow/rtrindadelabs?logo=twitter&style=for-the-badge" alt="rtrindadelabs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rodrtrindade" target="blank"><img src="https://img.shields.io/twitter/follow/rodrtrindade?logo=twitter&style=for-the-badge" alt="rodrtrindade" /></a> </p>
 
-- 🌱 I’m currently studying for **DCPT Certification...**
+- 🌱 I’m currently studying for **visionOS / AR/VR**
 
-- 👨🏻‍💻 All of my projects are available at [https://github.com/RTrindadeLabs](https://github.com/RTrindadeLabs)
+- 👨🏻‍💻 All of my projects are available at [https://github.com/RTrindadeLabs](https://github.com/RoTrindade)
 
-- 🎥 I'm YouTuber [https://youtube.com/@RodrigoTrindadeLabs](https://youtube.com/@RodrigoTrindadeLabs)
+- 🎥 I'm YouTuber [https://youtube.com/@GuiTrindade](https://youtube.com/@GuiTrindade)
 
-- 💬 Ask me about **CyberSec | Pentest | OSINT | Thread Intel | Hardware Hacking**
+- 💬 Ask me about **Swift | SwiftUI | Apple | Tech | visionOS**
 
-- 📫 How to reach me **rodrigotrindadelabs@gmail.com**
+- 📫 How to reach me **rodrigotrindade@protonmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/rodrigotrindade](https://linkedin.com/in/rodrigotrindade)
 
-- ⚡ Fun fact **I love Tech, Robots, Travel, Doctor Who & Star Wars.**
+- ⚡ Fun fact **I love Tech, Apple, Robots, Travel, Doctor Who & Star Wars.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rtrindadelabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rtrindadelabs" height="30" width="40" /></a>
+<a href="https://twitter.com/rodrtrindade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rtrindadelabs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodrigotrindade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigotrindade" height="30" width="40" /></a>
-<a href="https://instagram.com/rodrigotrindadelabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigotrindadelabs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rodrigotrindadelabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rodrigotrindadelabs" height="30" width="40" /></a>
+<a href="https://instagram.com/guitrindade.swift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigotrindadelabs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@GuiTrindade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="GuiTrindade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
