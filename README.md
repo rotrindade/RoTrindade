@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate  iOS Developer from Brazil</p>
+<p align="left">A passionate CyberSecurity Analyst from Brazil</p>
 
 ###
 
@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">📚 I’m currently studying for visionOS / AR/VR<br><br>
+<p align="left">📚 I’m currently studying Threat Intelligence & Pentest<br><br>
 👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br><br>
-🎥 I'm YouTuber https://youtube.com/@RoTrindade<br><br>
-💬 Ask me about Swift | SwiftUI | Apple | Tech | visionOS | Product Design <br><br>
+🎥 I'm YouTuber https://youtube.com/@RodrigoTrindadeLabs<br><br>
+💬 Ask me about CyberSecurity | Information Security | Hardware Hacking | Tech <br><br>
 📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br><br>
 📫 How to reach me rodrigotrindade@protonmail.com<br><br>
 ⚡ Fun fact: I love Tech, Apple, Robots, Travel, Games & TV Series: Fallout, Doctor Who & Star Wars.</p>
@@ -26,10 +26,10 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/@RoTrindade" target="_blank">
+  <a href="https://youtube.com/@RodrigoTrindadeLabs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://instagram.com/RodrigoTrindade.swift" target="_blank">
+  <a href="https://instagram.com/RodrigoTrindadeLabs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://x.com/rodrtrindade" target="_blank">
