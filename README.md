@@ -13,7 +13,7 @@
 <p align="left">📚 I’m currently studying Threat Intelligence & Pentest<br><br>
 👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br><br>
 🎥 I'm YouTuber https://youtube.com/@RodrigoTrindadeLabs<br><br>
-💬 Ask me about CyberSecurity | Information Security | Hardware Hacking | Tech <br><br>
+💬 Ask me about 🛡️ CyberSecurity | 📚 Information Security | 🛠️ Hardware Hacking | 🤖 Tech <br><br>
 📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br><br>
 📫 How to reach me rodrigotrindade@protonmail.com<br><br>
 ⚡ Fun fact: I love Tech, Apple, Robots, Travel, Games & TV Series: Fallout, Doctor Who & Star Wars.</p>
