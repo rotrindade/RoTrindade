@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate  iOS Developer with knowledges in CyberSecurity from Brazil</p>
+<p align="left">A passionate Data Analyst with knowledges in iOS Development & CyberSecurity from Brazil</p>
 
 ###
 
@@ -10,13 +10,13 @@
 
 ###
 
-<p align="left">📚 I’m currently studying SwiftUI for visionOS<br><br>
+<p align="left">📚 I’m currently studying Artificial Intelligence<br><br>
 👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br><br>
-🎥 I'm YouTuber https://youtube.com/@TecZilla<br><br>
-💬 Ask me about 👨🏻‍💻 iOS Development | 🛡️ CyberSecurity |  Apple | 🤖 Tech <br><br>
+🎥 I'm YouTuber https://youtube.com/@RodrigoTrindadeLabs<br><br>
+💬 Ask me about 📊 Data Science | 🧠 AI | 👨🏻‍💻 iOS Development | 🛡️ CyberSecurity |  Apple | 🤖 Tech <br><br>
 📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br><br>
 📫 How to reach me rodrigotrindade@protonmail.com<br><br>
-⚡ Fun fact: I love Tech, Apple, Robots, Travel, Games & TV Series: Fallout, Doctor Who & Star Wars.</p>
+⚡ Fun fact: I love Tech, Apple, Astronomy, Robots, Travel, Games & TV Series: Fallout, Doctor Who & Star Wars.</p>
 
 
 ###
