@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Data Analyst with knowledges in iOS Development & CyberSecurity from Brazil</p>
+<p align="left">A passionate Data Analyst with knowledges in CyberSecurity, Artificial Intelligence & iOS Development from Brazil</p>
 
 ###
 
@@ -16,7 +16,7 @@
 💬 Ask me about 📊 Data Science | 🧠 AI | 👨🏻‍💻 iOS Development | 🛡️ CyberSecurity |  Apple | 🤖 Tech <br><br>
 📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br><br>
 📫 How to reach me rodrigotrindade@protonmail.com<br><br>
-⚡ Fun fact: I love 🪐Astronomy, 🖥️Tech, 🤖Robotics, ✈️Travel, 👾Games & 🎬Movies/TV Series: Doctor Who & Star Wars.</p>
+⚡ Fun fact: I love 🪐Astronomy, 🖥️Tech, 🧠AI, 🤖Robotics, ✈️Travel, 👾Games & 🎬Movies/TV Series: Doctor Who & Star Wars.</p>
 
 ###
 
