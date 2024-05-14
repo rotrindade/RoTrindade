@@ -16,8 +16,7 @@
 💬 Ask me about 📊 Data Science | 🧠 AI | 👨🏻‍💻 iOS Development | 🛡️ CyberSecurity |  Apple | 🤖 Tech <br><br>
 📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br><br>
 📫 How to reach me rodrigotrindade@protonmail.com<br><br>
-⚡ Fun fact: I love Tech, Apple, Astronomy, Robots, Travel, Games & TV Series: Fallout, Doctor Who & Star Wars.</p>
-
+⚡ Fun fact: I love 🪐Astronomy, 🖥️Tech, 🤖Robotics, ✈️Travel, 👾Games & 🎬Movies/TV Series: Doctor Who & Star Wars.</p>
 
 ###
 
