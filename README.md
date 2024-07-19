@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate CyberSecurity & Data Analyst with knowledges in Artificial Intelligence & iOS Development from Brazil</p>
+<p align="left">A passionate iOS Developer, CyberSecurity & Data Analyst with knowledges in Artificial Intelligence & iOS Development from Brazil</p>
 
 ###
 
