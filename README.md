@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://www.rodrigotrindade.dev/wp-content/uploads/2024/07/ceb11f58fa11f9b8c151cc3a4ce49b71-1.gif"  />
+  <img height="300" src="https://www.rodrigotrindade.dev/wp-content/uploads/2024/07/ceb11f58fa11f9b8c151cc3a4ce49b71-1.gif"/>
 </div>
 
 ###
