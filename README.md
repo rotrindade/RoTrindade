@@ -10,15 +10,15 @@
 
 ###
 
+<p align="left">📚 I’m currently studying Artificial Intelligence<br><br>👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br>🎥 I'm YouTuber https://youtube.com/@RodrigoTrindadeLabs<br>💬 Ask me about 📊 Data Science | 🧠 AI  | 🛡️ CyberSecurity |  Apple | 🤖 Tech<br>📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br>📫 How to reach me rodrigotrindade@protonmail.com<br>⚡ Fun fact: I love 🖥️Tech, 🧠AI, 🤖Robotics, ΨPsychology, ✈️Travel, 👾Games <br>& 🎬Movies/TV Series: Doctor Who, Sherlock Holmes & Star Wars.</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img height="300" src="https://www.rodrigotrindade.dev/wp-content/uploads/2024/07/ceb11f58fa11f9b8c151cc3a4ce49b71-1.gif"/>
 </div>
-
-###
-
-<p align="left">📚 I’m currently studying Artificial Intelligence<br><br>👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br>🎥 I'm YouTuber https://youtube.com/@RodrigoTrindadeLabs<br>💬 Ask me about 📊 Data Science | 🧠 AI  | 🛡️ CyberSecurity |  Apple | 🤖 Tech<br>📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br>📫 How to reach me rodrigotrindade@protonmail.com<br>⚡ Fun fact: I love 🖥️Tech, 🧠AI, 🤖Robotics, ΨPsychology, ✈️Travel, 👾Games <br>& 🎬Movies/TV Series: Doctor Who, Sherlock Holmes & Star Wars.</p>
 
 ###
 
