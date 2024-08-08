@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Rodrigo Trindade, a passionate Data Analyst with knowledges in Artificial Intelligence & CyberSecurity from Brazil</p>
+<p align="left">I'm Rodrigo Trindade, a passionate iOS Developer with knowledges in Artificial Intelligence & CyberSecurity from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I’m currently studying Artificial Intelligence<br><br>👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br>🎥 I'm YouTuber https://youtube.com/@RodrigoTrindadeLabs<br>💬 Ask me about 📊 Data Science | 🧠 AI  | 🛡️ CyberSecurity |  Apple | 🤖 Tech<br>📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br>📫 How to reach me rodrigotrindade@protonmail.com<br>⚡ Fun fact: I love 🖥️Tech, 🧠AI, 🤖Robotics, ΨPsychology, ✈️Travel, 👾Games <br>& 🎬Movies/TV Series: Doctor Who, Sherlock Holmes & Star Wars.</p>
+<p align="left">📚 I’m currently studying Artificial Intelligence<br><br>👨🏻‍💻 All of my projects are available at https://github.com/RoTrindade<br>🎥 I'm YouTuber https://youtube.com/@RodrigoTrindadeLabs<br>💬 Ask me about | 🧠 AI  | 🛡️ CyberSecurity |  Apple | 🤖 Tech<br>📄 Know about my experiences https://linkedin.com/in/rodrigotrindade<br>📫 How to reach me rodrigotrindade@protonmail.com<br>⚡ Fun fact: I love 🖥️Tech, 🧠AI, 🤖Robotics, ΨPsychology, ✈️Travel, 👾Games <br>& 🎬Movies/TV Series: Doctor Who, Sherlock Holmes & Star Wars.</p>
 
 ###
 
