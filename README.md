@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Rodrigo Trindade, a passionate iOS Developer with knowledges in Artificial Intelligence & CyberSecurity from Portugal</p>
+<p align="left">I'm Rodrigo Trindade, a passionate Data Analyst with knowledges in Artificial Intelligence, iOS Development & CyberSecurity from Portugal</p>
 
 ###
 
