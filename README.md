@@ -11,11 +11,11 @@
 
 - 📚 Currently deep diving into **Artificial Intelligence** and **Astronomy Data Analysis**  
 - 👨🏻‍💻 All my projects live here: [github.com/RoTrindade](https://github.com/RoTrindade)  
-- 💬 Let’s talk about: **AI | Apple | Tech | Games | Robotics | Astronomy**  
+- 💬 Let’s talk about: **AI | Apple | Tech | Games | Robotics | Astronomy**
 - 📸 Follow my dev journey on [Instagram](https://instagram.com/rtcodes)  
 - 💼 Learn more about my work on [LinkedIn](https://linkedin.com/in/rodrigotrindade)  
 - 📬 Reach me at: **rodrigotrindade@protonmail.com**  
-- ⚡ Fun facts: I love 🖥️ tech, 🤖 robotics, ✈️ travel, 👾 gaming, and 🎬 sci-fi like *Doctor Who* & *Star Wars*
+- ⚡ Fun facts: I love 🖥️ tech, 🤖 robotics, 🪐 astronomy, ✈️ travel, 👾 gaming, and 🎬 sci-fi like *Doctor Who* & *Star Wars*
 
 ---
 
