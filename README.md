@@ -1,7 +1,7 @@
 <h1 align="left">Hey there 🖖🏻, welcome to my GitHub!</h1>
 
 <p align="left">
-  I'm <strong>Rodrigo Trindade</strong>, a Brazilian tech enthusiast passionate about creating meaningful digital experiences. <br><br>
+  I'm <strong>Rodrigo Trindade</strong>, a tech enthusiast passionate about creating meaningful digital experiences. <br><br>
   I specialize in <strong>iOS Development</strong>, <strong>Artificial Intelligence</strong>, <strong>Data Science</strong>, <strong>Cybersecurity</strong>, <strong>Data Analytics</strong> and <strong>Astronomy Projects</strong>.
 </p>
 
