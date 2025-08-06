@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Rodrigo Trindade, a passionate about Technology with knowledge in iOS Development, Artificial Intelligence and Cybersecurity from Brazil.</p>
+<p align="left">I'm Rodrigo Trindade, a passionate about Technology with knowledge in iOS Development | Data Analytics | Data Science | Artificial Intelligence and Cybersecurity from Brazil.</p>
 
 ###
 
